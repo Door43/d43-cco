@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cco:home|Door43 (cco)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cco|d43-cco repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cco/archive/master.zip|d43-cco.zip]]
+
+**Recent Changes**
+{{changes>ns = cco}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cco|Ethnologue data]]
+
